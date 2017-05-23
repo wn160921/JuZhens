@@ -39,7 +39,7 @@ public class LoginActivity extends AppCompatActivity implements IView,View.OnCli
         editText.setText(fenshu.geshihua());
     }
 
-
+//
     @Override
     public void onClick(View v) {
         switch (v.getId()){

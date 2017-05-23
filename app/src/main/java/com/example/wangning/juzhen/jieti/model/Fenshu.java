@@ -42,7 +42,7 @@ public class Fenshu {
         fenzi=fenzi/yue;
         fenm=fenm/yue;
     }
-    //格式化
+    //格式化//
     public String geshihua(){
         huanjian();
         return String.valueOf(fenzi)+"/"+String.valueOf(fenm);
