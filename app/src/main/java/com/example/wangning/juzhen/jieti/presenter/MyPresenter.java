@@ -24,4 +24,4 @@ public class MyPresenter implements IPresenter {
     public void clerae() {
         iView.onClear();
     }
-}//
+}
